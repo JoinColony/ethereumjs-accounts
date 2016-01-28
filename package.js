@@ -1,9 +1,9 @@
 /* jshint ignore:start */
 Package.describe({
-    name: 'area:ethereumjs-accounts',
+    name: 'colony:ethereumjs-accounts',
     version: '0.0.15',
     summary: 'A simple module for creating, managing and using Ethereum accounts in browser',
-    git: 'https://github.com/area/ethereumjs-accounts',
+    git: 'https://github.com/JoinColony/ethereumjs-accounts',
     // By default, Meteor will default to using README.md for documentation.
     // To avoid submitting documentation, set this field to null.
     documentation: 'README.md'
